@@ -292,3 +292,7 @@ footer h1 {text-align: center;
     display: flex;
     justify-content: center;
 }
+.AnombreDe {
+    color: #ffffff;
+    font-size: 1.6rem;
+}
